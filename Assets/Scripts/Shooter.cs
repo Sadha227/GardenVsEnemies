@@ -7,7 +7,7 @@ public class Shooter : MonoBehaviour
     [SerializeField] GameObject projectilePrefabs;
     [SerializeField] GameObject gun;
     [SerializeField] Animator animator;
-  //  [SerializeField] int damage;
+  //[SerializeField] int damage;
 
     void Start()
     {
